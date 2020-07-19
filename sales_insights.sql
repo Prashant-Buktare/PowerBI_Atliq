@@ -1,0 +1,1 @@
+SELECT Distinct(transactions.currency) FROM transactions;
